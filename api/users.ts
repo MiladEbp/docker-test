@@ -24,7 +24,7 @@ router.get("/api/users/:id?", async(req:any, res:any)=>{
                 status = 400;
                 result = {result:-1, message: "کاربری وجود ندارد!"}
             }else{
-              result = {result:0, data: getUser};
+              result = {result:0, data: getUser, name: "milad"};
             }
         }else if(Object.keys(query).length !== 0){
            _query = query;
