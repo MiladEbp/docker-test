@@ -28,7 +28,7 @@ router.get("/api/users/:id?", (req, res) => __awaiter(void 0, void 0, void 0, fu
                 result = { result: -1, message: "کاربری وجود ندارد!" };
             }
             else {
-                result = { result: 0, data: getUser, name: "milad" };
+                result = { result: 0, data: getUser };
             }
         }
         else if (Object.keys(query).length !== 0) {
