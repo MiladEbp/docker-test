@@ -1,6 +1,6 @@
-FROM node:10
+FROM node:slim
 
-WORKDIR /var/test-projects-docker/imageContainerProject
+WORKDIR /var/test-projects-docker/image-container-project
 
 COPY package*.json ./
 
