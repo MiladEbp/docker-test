@@ -1,4 +1,4 @@
-FROM node:slim
+FROM node:10
 
 WORKDIR /var/test-projects-docker/image-container-project
 
