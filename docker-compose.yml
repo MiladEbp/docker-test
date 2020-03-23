@@ -21,7 +21,7 @@ services:
       # The name should be similar to the service you will build
       - mongo
   # Our database service called mongo
-  mongodb:
+  mongo:
     # The name of the database container, NOTE: it is similar to the name provided
     container_name: mongo
     # Builds a mongo image from the docker repository
