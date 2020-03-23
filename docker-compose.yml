@@ -13,7 +13,7 @@ services:
     build: .
     # Exposes the necessary ports that our node app uses
     ports:
-      - "2000:2000"
+      - "80:2000"
     # All the services our node app will link to -
     # which in our case is only mongo
     # You can other services such as a Redis
@@ -23,9 +23,9 @@ services:
   # Our database service called mongo
   mongodb:
     # The name of the database container, NOTE: it is similar to the name provided
-    container_name: mongoDataBase
+    container_name: mongo
     # Builds a mongo image from the docker repository
     image: mongo:4.0.4
     # Exposes the ports that Mongo uses
-    volumes:
+    ports:
       - "27017:27017"
