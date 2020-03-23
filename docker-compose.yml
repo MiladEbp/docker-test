@@ -25,7 +25,7 @@ services:
     # The name of the database container, NOTE: it is similar to the name provided
     container_name: mongoDataBase
     # Builds a mongo image from the docker repository
-    image: mongo
+    image: mongo:4.0.4
     # Exposes the ports that Mongo uses
     ports:
       - "27017:27017"
