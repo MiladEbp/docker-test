@@ -11,7 +11,7 @@ const HOST = '0.0.0.0';
 
 //////////// Connect To DataBase
 
-mongoose.connect("mongodb://127.0.0.1:27017/docker_test", {
+mongoose.connect("mongodb://mongo:27017/docker_test", {
     useNewUrlParser: true,
     useCreateIndex: true
 });

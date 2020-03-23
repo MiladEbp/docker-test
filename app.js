@@ -8,7 +8,7 @@ const chalk = require("chalk");
 const bodyParser = require("body-parser");
 const PORT = 2000;
 const HOST = '0.0.0.0';
-mongoose.connect("mongodb://127.0.0.1:27017/docker_test", {
+mongoose.connect("mongodb://mongo:27017/docker_test", {
     useNewUrlParser: true,
     useCreateIndex: true
 });
