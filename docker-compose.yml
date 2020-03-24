@@ -27,5 +27,7 @@ services:
     # Builds a mongo image from the docker repository
     image: mongo:4.0.4
     # Exposes the ports that Mongo uses
+    volumes:
+          - ./data/db:/data/db
     ports:
       - "27017:27017"
