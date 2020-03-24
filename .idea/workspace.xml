@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30fb98a4-5bcf-4cf0-ac04-5e310770ec13" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -59,7 +60,7 @@
         <entry file="file://$PROJECT_DIR$/docker-compose.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="425">
-              <caret line="28" column="39" lean-forward="true" selection-end-line="30" selection-end-column="21" />
+              <caret line="28" column="39" lean-forward="true" selection-end-line="32" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -215,12 +216,12 @@
       <option name="presentableId" value="Default" />
       <updated>1584477752206</updated>
       <workItem from="1584477754425" duration="4090000" />
-      <workItem from="1584799619458" duration="19612000" />
+      <workItem from="1584799619458" duration="20467000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23702000" />
+    <option name="totallyTimeSpent" value="24557000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -362,7 +363,7 @@
     <entry file="file://$PROJECT_DIR$/docker-compose.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
-          <caret line="28" column="39" lean-forward="true" selection-end-line="30" selection-end-column="21" />
+          <caret line="28" column="39" lean-forward="true" selection-end-line="32" selection-end-column="21" />
         </state>
       </provider>
     </entry>
