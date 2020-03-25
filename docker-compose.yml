@@ -1,5 +1,5 @@
 # Defines our composer file version
-version: "2.2"
+version: "3"
 # Define our services
 services:
   # This is our nodejs app built using the Dockerfile
@@ -28,6 +28,6 @@ services:
     image: mongo:4.0.4
     # Exposes the ports that Mongo uses
     volumes:
-          - ./data/db:/data/db
+      - ./mongo-volume:/data/db
     ports:
       - "27017:27017"
