@@ -69,7 +69,7 @@
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
-              <caret line="5" column="7" selection-end-line="5" selection-end-column="7" />
+              <caret line="5" column="8" selection-end-line="5" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -177,7 +177,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="12.13.1" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../uli-server" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.tslint" value="" />
@@ -218,12 +218,12 @@
       <workItem from="1584477754425" duration="4090000" />
       <workItem from="1584799619458" duration="21067000" />
       <workItem from="1585144744230" duration="2470000" />
-      <workItem from="1585265261974" duration="394000" />
+      <workItem from="1585265261974" duration="544000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28021000" />
+    <option name="totallyTimeSpent" value="28171000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -493,7 +493,7 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" column="7" selection-end-line="5" selection-end-column="7" />
+          <caret line="5" column="8" selection-end-line="5" selection-end-column="8" />
         </state>
       </provider>
     </entry>
