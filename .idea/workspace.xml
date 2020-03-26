@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="30fb98a4-5bcf-4cf0-ac04-5e310770ec13" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -68,8 +69,8 @@
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="8" selection-end-line="5" selection-end-column="8" />
+            <state relative-caret-position="550">
+              <caret line="42" lean-forward="true" selection-end-line="42" />
             </state>
           </provider>
         </entry>
@@ -177,7 +178,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="12.13.1" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../uli-server" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../UliServer" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.tslint" value="" />
@@ -218,12 +219,12 @@
       <workItem from="1584477754425" duration="4090000" />
       <workItem from="1584799619458" duration="21067000" />
       <workItem from="1585144744230" duration="2470000" />
-      <workItem from="1585265261974" duration="544000" />
+      <workItem from="1585265261974" duration="947000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28171000" />
+    <option name="totallyTimeSpent" value="28574000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -492,8 +493,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="8" selection-end-line="5" selection-end-column="8" />
+        <state relative-caret-position="550">
+          <caret line="42" lean-forward="true" selection-end-line="42" />
         </state>
       </provider>
     </entry>
