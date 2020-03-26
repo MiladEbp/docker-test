@@ -2,5 +2,8 @@ node_modules
 build
 npm-debug.log
 .env
-
+#Ignore files build by Visual Studio
 .DS_Store
+.idea/*
+/.idea/
+docker-test/.idea/*
