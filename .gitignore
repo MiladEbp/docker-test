@@ -2,6 +2,6 @@ node_modules
 build
 npm-debug.log
 .env
-# file: ~/.gitignore_global
+#Ignore files build by Visual Studio
 .DS_Store
 .idea
