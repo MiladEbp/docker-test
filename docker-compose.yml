@@ -13,7 +13,7 @@ services:
     build: .
     # Exposes the necessary ports that our node app uses
     ports:
-      - "80:2000"
+      - "2000:2000"
     # All the services our node app will link to -
     # which in our case is only mongo
     # You can other services such as a Redis
