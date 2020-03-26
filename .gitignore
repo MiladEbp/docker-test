@@ -2,5 +2,6 @@ node_modules
 build
 npm-debug.log
 .env
+# file: ~/.gitignore_global
 .DS_Store
-/.idea/*
+.idea
