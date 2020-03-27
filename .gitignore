@@ -1,6 +1,7 @@
-node_modules
-build
-npm-debug.log
-.env
-.DS_Store
-.idea/
+node_modules/**/*
+node_debug.log
+server.log
+#.env
+/yarn.lock
+/.idea/*
+/yarn-error.log
